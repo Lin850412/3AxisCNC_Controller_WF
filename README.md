@@ -1,1 +1,3 @@
 # 3AxisCNC_Controller_WF
+
+使用ITRI開發之運動控制函示庫MCCL進行EtherCAT三軸雕刻機控制，本專案主要著力於人機介面之開發與設計。該版本為測試的初版，採用WinForm進行開發，並主要使用UserControll進行元件開發。
